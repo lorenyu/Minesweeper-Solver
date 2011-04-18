@@ -1,0 +1,5 @@
+Minesweeper-Player
+Author: Loren Yu <yuloren@gmail.com>
+
+This works on Windows XP, and requires Python Windows libraries to be able to control the mouse.
+Since the program takes control of the mouse, a game controller is used to control the program. I might have been able to use the keyboard but if I remember correctly I couldn't figure out how to get the program to capture key events while the minesweeper window had focus.
